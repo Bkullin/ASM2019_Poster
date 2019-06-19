@@ -1,4 +1,4 @@
-# ASM2019_Poster
+# ASM2019 Poster
 ## Current Contact Details:
 > Dr Brian Kullin  
 > Division of Medical Virology  
