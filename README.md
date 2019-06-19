@@ -1,4 +1,5 @@
-# ASM2019 Poster
+# Whole genome sequence analysis of *Clostridium difficile* ribotype 017 strains in hospital patients in Cape Town, South Africa
+# ASM2019
 ## Current Contact Details:
 > Dr Brian Kullin  
 > Division of Medical Virology  
